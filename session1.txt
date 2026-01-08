@@ -1,0 +1,94 @@
+tahie omlet
+1-start
+2-tabe ra miavarim
+3- gaz roshan va roghan mirizim
+4-tokhm morgh ra mishkonim
+5-advieh mizanim
+6-meyl mikonim
+7-finish
+--------------
+Namayesh dadan--->print
+problem1:alg:barname i ke esm daneshgah ra neshan dahad
+1-start
+2-print("daneshgah shajid rajaii") or print('daneshgah shajid rajaii')
+3-finish
+--------------
+moteghayer - Variable
+
+"amirhossein" ---> string | reshteh
+
+name = "amirhossein"
+
+username = "amirh"
+password = "amir123"
+
+score = 19
+---------------
+problem2:ye meghdar esm dar yek variable zakhire shode va namayesh dadeh shavad
+
+1-start
+2-studentName = "amirhossein"
+3-print(studentName)
+3-print("studentName")
+---------------
+problem3:daryaft e code meli va namayesh
+1-start
+2-nationalCode = input()
+3-print(nationalCode)
+4-finish
+---------------
+Question1:
+1-start
+2-a=input()
+3-b=input()
+4-c=input()
+5-print(a+b+c)
+6-finish
+
+
+1-start
+2-a=input()
+3-b=input()
+4-c=input()
+5-result = a+b+c
+6-print(result)
+6-finish
+---------------
+Question2:
+1-start
+2-tol=input()
+3-arz=input()
+4-env = (tol+arz)*2
+5-print(env)
+6-finish
+
+---------------
+Question3:
+1-start
+2-a=input()
+3-b=input()
+4-c=input()
+5-d=input()
+5-result = (a+b+c+d)/4
+6-print(result)
+6-finish
+
+---------------
+Question4:
+1-start
+2-score = input()
+3-if score > 10 print("ghabol") else print("mardod")
+4-finish
+---------------
+Question5:
+1-start 
+2-a=input()
+3-b=input()
+4-if a==b print("equal") else print("not-equal")
+4-finish
+---------------
+Question6:
+1-start
+2-a=input()
+3-if a%2==0 print("zoj") else print("fard")
+4-finish
